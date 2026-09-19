@@ -1,4 +1,4 @@
-// Via's Code
+// Via's code
 
 #include <iostream>
 using namespace std;
